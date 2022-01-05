@@ -1,0 +1,1 @@
+"D:\WeChat_tools\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-9gaev02se5b842df --n quickstartFunctions --r --project "D:\WeChat_tools\xingyunweiyan" --report_first --report
